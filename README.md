@@ -1,3 +1,5 @@
+This fork ... quick way for a copy to make a quick test project - see if I can use with a Bluno Beetle (maybe I should have done a clone).
+
 # <img src="icon_small.png" width="71" height="71"/> Bluetooth LE plugin for Xamarin [![Build Status](https://www.bitrise.io/app/3fe54d0a5f43c2bf.svg?token=i9LUY4rIecZWd_3j7hwXgw)](https://www.bitrise.io/app/3fe54d0a5f43c2bf)
 
 
